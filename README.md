@@ -1,7 +1,7 @@
 *TwoGood Clone*
 
 Description: 
-TwoGood is a multi-genre electronic duo bringing a fresh array of music designed to make you move. A responsive clone of Twogood created using HTML, CSS, JavaScript, GSAP, ScrollTrigger, and Locomotive.
+A responsive clone of Twogood created using HTML, CSS, JavaScript, GSAP, ScrollTrigger, and Locomotive.
 
 Table of Contents:- 
 Demo Features Technologies Used Installation Usage Contributing.
