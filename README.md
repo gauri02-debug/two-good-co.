@@ -1,7 +1,7 @@
-Twogood Clone
+*TwoGood Clone*
 
 Description: 
-Developed a responsive clone of Twogood, incorporating modern web technologies to ensure an exceptional user experience across multiple devices. The project employed HTML, CSS, and JavaScript, integrating GSAP for advanced animations, ScrollTrigger for scroll-based effects, and Locomotive Scroll to enhance the scrolling interactions.
+TwoGood is a multi-genre electronic duo bringing a fresh array of music designed to make you move. Developed a responsive clone of Twogood, incorporating modern web technologies to ensure an exceptional user experience across multiple devices. The project employed HTML, CSS, and JavaScript, integrating GSAP for advanced animations, ScrollTrigger for scroll-based effects, and Locomotive Scroll to enhance the scrolling interactions.
 
 Key Features:
 Responsive Design: Created a user-centric interface optimized for various screen sizes and devices.
