@@ -1,4 +1,5 @@
-*TwoGood Clone*
+*TwoGood Clone*     https://gauri02-debug.github.io/two-good-co./
+
 
 Description: 
 A responsive clone of Twogood created using HTML, CSS, JavaScript, GSAP, ScrollTrigger, and Locomotive.
@@ -16,3 +17,4 @@ JavaScript: Interactivity and animations.
 GSAP: For advanced animations. 
 ScrollTrigger: For scroll-based animations. 
 Locomotive: Enhances the scrolling experience. 
+
